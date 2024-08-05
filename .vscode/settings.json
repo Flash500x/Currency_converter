@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": [
+        "."
+    ],
+    "java.project.referencedLibraries": [
+        "/Users/abinmjoseph/Downloads/Currency_converter/com/okhttp-3.9.1-javadoc.jar"
+    ]
+}
