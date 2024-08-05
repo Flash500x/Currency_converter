@@ -1,4 +1,4 @@
-file = open('pom.xml', 'w')
-k = "<dependency><groupId>javax.xml</groupId><artifactId>jaxp-api</artifactId><version>1.4.2</version></dependency>"
+file = open('build.gradle', 'w')
+k = "dependencies {implementation 'com.squareup.okhttp3:okhttp:4.9.3'}"
 file.write(k)
 file.close()
